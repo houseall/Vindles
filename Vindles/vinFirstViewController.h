@@ -10,4 +10,6 @@
 
 @interface vinFirstViewController : UIViewController
 
+- (IBAction)clickSubmitButton:(id)sender;
+
 @end
